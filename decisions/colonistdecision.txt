@@ -1,0 +1,32 @@
+country_decisions = {
+    colonistdecision = {
+        mayor = yes
+        potential = {
+            OR = {
+                ai = no
+                any_owned_province = {
+                    is_capital = yes
+                    OR = {
+                        continent = north_america
+                        continent = south_america
+                    }
+                }
+            }
+            any_owned_province = {
+                has_port = yes
+            }
+            NOT = {
+                has_country_modifier = colonist_for_everyone
+            }
+        }
+        allow = {
+            dip_tech = 7
+        }
+        effect = {
+            add_country_modifier = {
+                name = colonist_for_everyone
+                duration = -1
+            }
+        }
+    }
+}

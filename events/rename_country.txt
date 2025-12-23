@@ -1,0 +1,25 @@
+namespace = rename_country
+
+country_event = {
+	id = rename_country.1
+	title = rename_country_switzerland.title
+	desc = rename_country_switzerland.desc
+	picture = GREAT_BUILDING_eventPicture
+	
+	fire_only_once = no
+	major = no
+
+	is_triggered_only = yes
+	
+	option = {	#Switzerland, default name
+		name = rename_country_switzerland.a
+		restore_country_name = yes
+	}
+	option = {	#South German Federation
+		name = rename_country_switzerland.b
+		trigger = {
+			government = republic
+		}
+		override_country_name = South German Confederation
+	}
+}

@@ -1,0 +1,162 @@
+#china flavor
+
+romance_of_the_three_kingdoms = {
+	land_morale = 0.1
+	global_manpower_modifier = 0.1
+	global_trade_goods_size_modifier = -0.1
+}
+water_margin = {
+	global_unrest = -2
+	defensiveness = 0.1
+	imperial_mandate = -0.05
+}
+journey_to_the_west = {
+	movement_speed = 0.1
+	global_regiment_cost = -0.1
+	global_trade_power = -0.1
+}
+jin_ping_mei = {
+	idea_cost = -0.1
+	global_institution_spread = 0.25
+	stability_cost_modifier = 0.1
+}
+rulin_waishi = {
+	technology_cost = -0.05
+	yearly_corruption = -0.1
+	advisor_cost = 0.1
+}
+dream_of_the_red_chamber = {
+	discipline = 0.05
+	imperial_mandate = 0.5
+	global_unrest = 5
+}
+
+prc_monarchy = {
+	monarch_admin_power = 6
+	prestige = 1
+}
+prc_theocracy = {
+	yearly_harmony = 100
+	global_missionary_strength = 0.01
+}
+prc_republic = {
+	election_cycle = -1
+	max_absolutism = 10
+}
+
+prc_miss_str = {
+	local_missionary_strength = 0.02
+}
+prc_sinicize = {
+	local_culture_conversion_cost = -0.1
+}
+prc_gaituguiliu = {
+	diplomatic_annexation_cost = -0.1
+}
+prc_korean_arty = {
+	artillery_power = 0.05
+	artillery_cost = -0.25
+}
+prc_vajrayana = {
+	local_religious_unity_contribution = -1
+	local_missionary_strength = -0.05
+	local_unrest = -5
+}
+prc_morale = {
+	land_morale = 0.05
+}
+prc_restore_silkroad = {
+	local_development_cost = -0.2
+}
+prc_tradeeff = {
+	trade_efficiency = 0.1
+}
+prc_open_silkroad = {
+	province_trade_power_value = 1
+	local_friendly_movement_speed = 0.2
+}
+prc_range = {
+	range = 0.25
+}
+prc_colonist = {
+	colonists = 1
+	#global_colonial_growth = 10
+}
+
+#sus flavor
+
+sos_stable_steering = {
+	leader_naval_manuever = 1
+}
+sos_venting_over = {
+	global_colonial_growth = 20
+}
+sos_colonist = {
+	colonists = 1
+	global_tax_income = 24
+}
+sos_tree_monitor = {
+	build_cost = -0.1
+}
+sos_colossus = {
+	trade_steering = 0.25
+	prestige = 0.5
+}
+sos_ephesus = {
+	mil_tech_cost_modifier = -0.1
+	prestige = 0.5
+}
+sos_vespers = {
+	spy_offence = 0.5
+	rebel_support_efficiency = 0.5
+}
+sos_orders = {
+	num_accepted_cultures = 2
+	great_project_upgrade_cost = -0.2
+}
+sos_conversion = {
+	missionaries = 1
+	missionary_maintenance_cost = -0.25
+	global_missionary_strength = 0.02
+}
+sos_vent_master = {
+	leader_siege = 1
+	siege_ability = 0.1
+}
+
+#arabia flavor - removed
+
+estate_clergy_desert_mod = {
+	local_development_cost = -0.15
+}
+
+#porcupine funny
+
+salt_mining = {
+	trade_goods_size = 4.20
+}
+saltmine = {
+}
+
+#modified vanilla
+tur_reign_of_the_valide_sultan_modifier = { 
+	all_power_cost = -0.05 #reduced
+	yearly_corruption = 0.2
+	legitimacy = -1
+	all_estate_loyalty_equilibrium = -0.05
+}
+grain_vodka_bonus_prod = {
+	local_production_efficiency = 0.5 #reduced
+	local_unrest = -1
+}
+#jap_period_tranquility_modifier = {
+#	development_cost = -0.15 
+#	global_prosperity_growth = 0.25
+#}
+
+#colonistdecision
+colonist_for_everyone = {
+	colonists = 1
+	range = 0.25
+	may_explore = yes
+}

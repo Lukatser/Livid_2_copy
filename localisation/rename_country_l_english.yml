@@ -1,0 +1,14 @@
+l_english:
+  ###Decisions###
+ rename_country_switzerland_title: "Rename our country"
+ rename_country_switzerland_desc: "There are various options to rename our country to."
+ ###Events###
+  #Switzerland
+ rename_country_switzerland.title: "Rename our country"
+ rename_country_switzerland.desc: "Below are the various options we have to rename our country to."
+ rename_country_switzerland.a: "Switzerland"
+ rename_country_switzerland.b: "South German Federation"
+ ###Country Strings###
+ #Switzerland
+ SGF_NAME: "South German Federation"
+ SGF_NAME_ADJ: "Germanic"
