@@ -1,9 +1,9 @@
 #862 - Yaqui
 
-#owner = YAQ
-#controller = YAQ
-#add_core = YAQ
-#is_city = yes
+owner = YAQ
+controller = YAQ
+add_core = YAQ
+is_city = yes
 culture = piman
 religion = totemism
 capital = "Yaqui" 
@@ -16,7 +16,7 @@ native_size = 5
 native_ferocity = 1 
 native_hostileness = 5 
 
-1444.1.1 = { tribal_owner = --- }
+
 
 discovered_by = north_american
 discovered_by = mesoamerican

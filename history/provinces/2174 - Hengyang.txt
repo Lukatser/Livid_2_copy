@@ -1,7 +1,8 @@
 # 2174 - Hengyang
 
-owner = CHC
-controller = CHC
+owner = MNG
+controller = MNG
+add_core = MNG
 add_core = CMI
 culture = xiang
 religion = animism

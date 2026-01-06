@@ -1,7 +1,8 @@
 #2406 - Jianchang
 
-owner = CDL
-controller = CDL
+owner = MNG
+controller = MNG
+add_core = MNG
 add_core = CYI
 add_core = CDL
 culture = yi

@@ -1,9 +1,9 @@
 #994 - Stadacona
 
-#owner = STA
-#controller = STA
-#add_core = STA
-#is_city = yes
+owner = STA
+controller = STA
+add_core = STA
+is_city = yes
 culture = laurentian
 religion = totemism
 capital = "Stadacona"
@@ -17,8 +17,6 @@ native_ferocity = 1
 native_hostileness = 6
 discovered_by = north_american
 extra_cost = 10
-
-1444.1.1 = { tribal_owner = --- }
 
 add_permanent_province_modifier = {
 	name = saint_lawrence_estuary_modifier

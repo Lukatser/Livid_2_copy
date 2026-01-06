@@ -1,7 +1,8 @@
 #674 - Guiyang
 
-owner = CYI
-controller = CYI
+owner = MNG
+controller = MNG
+add_core = MNG
 add_core = CYI
 culture = yi
 religion = animism

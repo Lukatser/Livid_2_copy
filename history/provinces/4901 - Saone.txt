@@ -1,9 +1,9 @@
 # No previous file for Saone
 
-#add_core = WCY
-#owner = WCY
-#controller = WCY
-#is_city = yes
+add_core = WCY
+owner = WCY
+controller = WCY
+is_city = yes
 culture = dakota
 religion = totemism
 capital = "Saone"
@@ -17,8 +17,6 @@ native_ferocity = 1
 native_hostileness = 6
 
 discovered_by = north_american
-
-1444.1.1 = { tribal_owner = --- }
 
 1710.1.1 = {
 	owner = ---

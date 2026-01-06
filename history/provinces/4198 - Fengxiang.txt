@@ -1,7 +1,8 @@
 #4198 - Fengxiang
 
-owner = CSH
-controller = CSH
+owner = MNG
+controller = MNG
+add_core = MNG
 culture = xibei
 religion = confucianism
 capital = "Fengxiang"

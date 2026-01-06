@@ -1,7 +1,8 @@
 # 2169 - Langzhong
 
-owner = CXI
-controller = CXI
+owner = MNG
+controller = MNG
+add_core = MNG
 culture = sichuanese
 religion = confucianism
 capital = "Langzhong"

@@ -1,9 +1,10 @@
 #664 - Lingyun
 
-owner = CGS
-controller = CGS
+owner = MNG
+controller = MNG
+add_core = MNG
 culture = zhuang
-religion = animism
+religion = confucianism
 capital = "Lingyun"
 trade_goods = tea
 hre = no

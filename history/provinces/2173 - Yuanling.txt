@@ -1,7 +1,8 @@
 # 2173 - Yuanling
 
-owner = CHC
-controller = CHC
+owner = MNG
+controller = MNG
+add_core = MNG
 add_core = CMI
 culture = miao
 religion = animism

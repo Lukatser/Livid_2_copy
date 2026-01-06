@@ -616,4 +616,6 @@
  colonistdecision_title: "Get some colonist"
  colonistdecision_desc: "Go kill those natives, now!"
  colonist_for_everyone: "Colonists for all!"
+ shirvan_node: "Shirvan"
+ toulouse_node: "Toulouse"
  

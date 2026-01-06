@@ -1,7 +1,8 @@
 #687 - Zhoujiakou
 
-owner = TNG
-controller = TNG
+owner = MNG
+controller = MNG
+add_core = MNG
 culture = zhongyuan
 religion = confucianism
 capital = "Nanyang"

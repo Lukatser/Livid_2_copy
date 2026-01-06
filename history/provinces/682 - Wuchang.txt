@@ -1,7 +1,8 @@
 #682 - Hanyang
 
-owner = CXI
-controller = CXI
+owner = MNG
+controller = MNG
+add_core = MNG
 culture = hubei
 religion = confucianism
 capital = "Wuchang"

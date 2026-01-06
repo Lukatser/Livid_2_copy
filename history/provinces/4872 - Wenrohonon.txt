@@ -1,9 +1,9 @@
 # No previous file for Wenrohonon
 
-#owner = WEN
-#controller = WEN
-#add_core = WEN
-#is_city = yes
+owner = WEN
+controller = WEN
+add_core = WEN
+is_city = yes
 culture = tionontate
 religion = totemism
 capital = "Wenrohonon"
@@ -16,8 +16,6 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 4
 discovered_by = north_american
-
-1444.1.1 = { tribal_owner = --- }
 
 1726.1.1 = {
 	owner = FRA

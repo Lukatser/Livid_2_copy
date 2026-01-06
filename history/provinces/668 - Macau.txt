@@ -1,7 +1,8 @@
 #668 - Macau
 
-owner = YUE
-controller = YUE
+owner = MNG
+controller = MNG
+add_core = MNG
 culture = cantonese
 religion = confucianism
 capital = "Macau"

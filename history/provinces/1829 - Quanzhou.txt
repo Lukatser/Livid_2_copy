@@ -1,7 +1,8 @@
 #1829 - Xiamen
 
-owner = MIN
-controller = MIN
+owner = MNG
+controller = MNG
+add_core = MNG
 culture = chimin
 religion = confucianism
 capital = "Quanzhou"

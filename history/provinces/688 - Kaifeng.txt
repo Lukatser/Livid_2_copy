@@ -1,7 +1,8 @@
 #688 - Kaifeng (can't change file name)
 
-owner = LNG
-controller = LNG
+owner = MNG
+controller = MNG
+add_core = MNG
 culture = zhongyuan
 religion = confucianism
 capital = "Kaifeng"

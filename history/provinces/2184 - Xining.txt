@@ -1,7 +1,8 @@
 # 2184 - Xining
 
-owner = CSH
-controller = CSH
+owner = MNG
+controller = MNG
+add_core = MNG
 culture = xibei
 religion = vajrayana
 capital = "Xining"

@@ -1,7 +1,8 @@
 #4199 - Tongren
 
-owner = CMI
-controller = CMI
+owner = MNG
+controller = MNG
+add_core = MNG
 culture = miao
 religion = animism
 capital = "Tongren"

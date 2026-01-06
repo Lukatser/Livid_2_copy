@@ -1,9 +1,9 @@
 #941 - Cumberland
 
-#owner = CCA
-#controller = CCA
-#add_core = CCA
-#is_city = yes
+owner = CCA
+controller = CCA
+add_core = CCA
+is_city = yes
 culture = yuchi
 religion = totemism
 capital = "Ouasioto"
@@ -16,7 +16,7 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 6
 
-1444.1.1 = { tribal_owner = --- }
+
 
 discovered_by = north_american
 

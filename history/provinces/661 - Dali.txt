@@ -1,7 +1,8 @@
 #661 - Dali
 
-owner = CDL
-controller = CDL
+owner = MNG
+controller = MNG
+add_core = MNG
 culture = bai
 religion = buddhism
 capital = "Dali"

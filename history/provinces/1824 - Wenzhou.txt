@@ -1,7 +1,8 @@
 #1824 - Wenzhou
 
-owner = WUU
-controller = WUU
+owner = MNG
+controller = MNG
+add_core = MNG
 culture = wu
 religion = confucianism
 capital = "Wenzhou"

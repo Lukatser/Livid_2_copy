@@ -1,7 +1,8 @@
 # 2168 - Bozhou
 
-owner = CXI
-controller = CXI
+owner = MNG
+controller = MNG
+add_core = MNG
 add_core = CYI
 culture = yi
 religion = animism

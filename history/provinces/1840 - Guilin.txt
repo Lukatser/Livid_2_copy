@@ -1,10 +1,10 @@
 #1840 - Guilin
 
-owner = CGS
-controller = CGS
-add_core = CGS
+owner = MNG
+controller = MNG
+add_core = MNG
 culture = zhuang
-religion = animism
+religion = confucianism
 capital = "Guilin"
 trade_goods = silk
 hre = no

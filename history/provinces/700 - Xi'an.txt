@@ -1,7 +1,8 @@
 #700 - Shaanxi
 
-owner = QIN
-controller = QIN
+owner = MNG
+controller = MNG
+add_core = MNG
 culture = xibei
 religion = confucianism
 capital = "Xi'an"

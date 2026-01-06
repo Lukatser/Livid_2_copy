@@ -1,7 +1,8 @@
 #672 - Chenzhou
 
-owner = CXI
-controller = CXI
+owner = MNG
+controller = MNG
+add_core = MNG
 culture = xiang
 religion = confucianism
 capital = "Wulin"

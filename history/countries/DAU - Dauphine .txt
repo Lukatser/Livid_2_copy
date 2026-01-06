@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = absolutist_france_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = occitain
+capital = 203	# Grenoble
+
+1444.1.1 = {
+	monarch = {
+		name = "Saint Jean le Vieux"
+		culture = occitain
+		dynasty = "de Viennois"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 1418.1.1
+	}
+}

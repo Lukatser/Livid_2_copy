@@ -1,7 +1,8 @@
 #667 - Guangzhou
 
-owner = YUE
-controller = YUE
+owner = MNG
+controller = MNG
+add_core = MNG
 culture = cantonese
 religion = confucianism
 capital = "Canton"

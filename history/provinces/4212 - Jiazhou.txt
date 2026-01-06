@@ -1,7 +1,8 @@
 #4212 - Jiazhou
 
-owner = SHU
-controller = SHU
+owner = MNG
+controller = MNG
+add_core = MNG
 culture = sichuanese
 religion = confucianism
 capital = "Jiazhou"

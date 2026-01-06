@@ -3741,10 +3741,10 @@ mor_tunis_conquest = {
 	galley_power = 0.2
 }
 mor_beyond_the_canaries = {
-	range = 0.25
+	galley_power = 0.25
 }
 mor_colonized_brazil = {
-	global_colonial_growth = 20
+	number_of_cannons = 20
 }
 
 mor_new_world_power = {

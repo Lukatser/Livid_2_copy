@@ -1,7 +1,8 @@
 # 2153 - Tingzhou
 
-owner = NNG
-controller = NNG
+owner = MNG
+controller = MNG
+add_core = MNG
 culture = hakka
 religion = confucianism
 capital = "Tingzhou"

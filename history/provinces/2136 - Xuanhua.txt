@@ -1,7 +1,8 @@
 # 2136 - Xuanhua
 
-owner = JIN
-controller = JIN
+owner = MNG
+controller = MNG
+add_core = MNG
 culture = jin
 religion = confucianism
 capital = "Xuanhua"

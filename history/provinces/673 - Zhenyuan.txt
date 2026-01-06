@@ -1,7 +1,8 @@
 #673 - Bozhou
 
-owner = CMI
-controller = CMI
+owner = MNG
+controller = MNG
+add_core = MNG
 add_core = CMI
 culture = miao
 religion = animism

@@ -1,7 +1,8 @@
 # 2156 - Chaochow
 
-owner = MIN
-controller = MIN
+owner = MNG
+controller = MNG
+add_core = MNG
 culture = chimin
 religion = confucianism
 capital = "Chaochow"

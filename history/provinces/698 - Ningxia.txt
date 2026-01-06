@@ -1,7 +1,8 @@
 #698 - Guyuan
 
-owner = CSH
-controller = CSH
+owner = MNG
+controller = MNG
+add_core = MNG
 culture = mongol
 religion = confucianism
 capital = "Ningxia"

@@ -1,7 +1,8 @@
 #679 - Sichuan Pendi
 
-owner = SHU
-controller = SHU
+owner = MNG
+controller = MNG
+add_core = MNG
 culture = sichuanese
 religion = confucianism
 capital = "Chengdu"
